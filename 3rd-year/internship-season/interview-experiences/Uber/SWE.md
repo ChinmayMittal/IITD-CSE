@@ -6,7 +6,7 @@
 - For example, if you pass 8 out of 10 test cases, you receive 80% of the points associated with the problem.
 - Unlike other companies where partial solves were viewed negatively compared to full solves, here the partial solves are proportional.
 - Hence, there isn't much point in trying to improve or correct your code if you have already earned a significant chunk of points.
-- **Note:** Even the sample test cases had points associated with them, so make sure to include code that prints the sample test cases for some extra brownie points! 😄
+- **Note:** Even the sample test cases had points associated with them, so make sure to include code that prints the sample test cases for some easy brownie points! 😄
 - If I were to rate the difficulty level of the problems (based on Codeforces rating), I would estimate it to be around 1500 - 1900.
 - The total points were approximately 600, and the cutoff for the interview was around 350 points.
 
