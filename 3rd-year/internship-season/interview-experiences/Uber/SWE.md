@@ -21,7 +21,7 @@
 - You were free to use any common programming language.
 - The interviewers also emphasized the importance of clean and well-explained code.
 - I had hardly practiced from leetcode and mostly stuck to codeforces for practicing competitive programming.
-  So later upon discussion with friends, Interestingly I discovered that the problem I was asked during this round was actually 
+  So later, upon discussion with friends, Interestingly I discovered that the problem I was asked during this round was actually 
   from LeetCode: [Bus Routes](https://leetcode.com/problems/bus-routes/).
 
 ### Round 2: High-Level Design Round
