@@ -37,7 +37,7 @@ Eg.
 - What kind of data will we send ?
 - What is the latency and bandwith of our data transfer ?
 - The trader will have a screen with prices and option to buy and sell which will be communicated with the exchange
-- How do we improve this settup. Identify the bottleneck which is the trader clicking buttons in this case
+- How do we improve this setup. Identify the bottleneck which is the trader clicking buttons in this case
 - Automate the job the trader is doing decreasing the latency
 - The next bottleneck becomes the data transfer from Amsterdam to Frankfurt
 - Remove this bottleneck by shifting the algorithm to a co-location in Frankfurt.
