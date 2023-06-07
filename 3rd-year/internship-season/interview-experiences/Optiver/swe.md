@@ -28,7 +28,7 @@ This was a bit open ended and different from most interviews. So be prepared.
 The problem statement was that given you are a trader in Amsterdam with the exchange in Frankfurt design a system to allow you to trade
 
 - They want to test how you think
-- Interact with the interviewer. Thing loudly !
+- Interact with the interviewer. Think loudly !
 - Break the problem in parts. Discuss the decisions you make and why you make them
 - Ask for clarifications and assumptions if any and engage with the interviewer
 
