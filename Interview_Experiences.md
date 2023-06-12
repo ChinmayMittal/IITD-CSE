@@ -62,7 +62,7 @@
 
 
 ### 6	Kshitij (Graviton Systems):
--	Coding test for software role includes 4 questions similar to Codeforcesrated 1600-1700.
+-       Coding test for software role includes 4 questions similar to Codeforcesrated 1600-1700.
 -       Pen Paper Probability test for Quant role.
 -	Work from 10 AM to 8 PM.
 -	Week 1 interactions with HR, followed by a project on systems.
