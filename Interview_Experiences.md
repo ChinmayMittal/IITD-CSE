@@ -1,6 +1,6 @@
-##Summary of Internship Test Tips and Experiences:
+## Summary of Internship Test Tips and Experiences:
 
-###1	Dhruv (Quadeye Quant Tesearch CS1):
+### 1	Dhruv (Quadeye Quant Tesearch CS1):
 -	Did Quant as he found Quant resources are more interesting than tech.
 -	Focus on quant-related topics
 -	Resources To follow for Quant : Brainstellar, 50 challenging problems on probability, Herd on the street
@@ -16,7 +16,7 @@
 -	In conclusion don’t apply for few companies as you might have a bad day so keep safer options too , also don’t apply in too many companies as you wont be able to give manage time.
 
 
-###2	Vidushi (Google India Software):
+### 2	Vidushi (Google India Software):
 -	Be clear about the type of company you want to join.
 -	Focus on topics like tree traversal, dynamic programming, graph algorithms, bit manipulation, and binary search.
 -	LeetCode medium and easy problems are sufficient, tackle hard problems later.
@@ -30,7 +30,7 @@
 
 
 
-###3	Prabal Singh (Adobe Research):
+### 3	Prabal Singh (Adobe Research):
 -	He focused more on research.
 -	He prepared for coding interviews during the summer using InterviewBit and LeetCode.
 -	Interview bit had good coverage of topics
@@ -43,7 +43,7 @@
 -	Learn machine learning, at least up to Andrew Ng's course.
 
 
-###4	Tanish Gupta (NK Securities):
+### 4	Tanish Gupta (NK Securities):
 	
 -	Understand OOPS concepts
 -	Have a answer ready for why do you want to do that intern
@@ -53,7 +53,7 @@
 -	You can sit in up to 5 companies on any day.
 
 
-###5	Kartik (Optiver Trading):
+### 5	Kartik (Optiver Trading):
 -	Software and trader roles have the same test.
 -	Software role has a CP round, quant has a group discussion.
 -	Contribute to group discussions and showcase strong points.
@@ -61,7 +61,7 @@
 -	You get good exposure and environment in international internships.
 
 
-###6	Kshitij (Graviton Systems):
+### 6	Kshitij (Graviton Systems):
 -	Coding test for software role includes 4 questions similar to Codeforcesrated 1600-1700.
 -       Pen Paper Probability test for Quant role.
 -	Work from 10 AM to 8 PM.
@@ -70,7 +70,7 @@
 
 
 
-###7	Manthan Dalmia (SDE Nirvana - Startup):
+### 7	Manthan Dalmia (SDE Nirvana - Startup):
 -	Impact can be higher in smaller teams even as an intern for startups
 -	Understand the functioning of the company and interact with all verticals.
 -	Learn OOP concepts for interviews.
