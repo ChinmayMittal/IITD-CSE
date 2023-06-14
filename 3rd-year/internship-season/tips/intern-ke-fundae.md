@@ -1,3 +1,5 @@
+[🎥 Meeting Recording Intern ke Fundae 2023](https://csciitd-my.sharepoint.com/:v:/g/personal/cs1210584_iitd_ac_in/ETApRUjqpGxBqnuEo3KEEGMBh2YC2gmdDGmnfNeeSL0fBg?e=dJ84Tn)
+
 ## Summary of Internship Test Tips and Experiences:
 
 ### 1	Dhruv Tyagi (Quadeye Quant Tesearch CS1):
