@@ -1,3 +1,5 @@
+Contributed by Ananya Mathur
+
 #### Project
 
 - My project is on Adaptive Timeouts which is related to dynamically modifying timeout values for requests which take a longer time to be serviced due to failure of the service/API ahead. 
