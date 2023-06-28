@@ -22,7 +22,7 @@ I recommend keeping the following sections for tech/quant roles(in order):
 #### Scholastic achievements
 
 - I think this is something that companies look at a lot. Don't forget to mention things like JEE rank, DRs, Scholarships, Olympiads, other prizes.
-- I recommend keeping this chronological / in order of importance with dates right alined.
+- I recommend keeping this chronological / in order of importance with dates right aligned.
 - Highlight the ranks, scores etc.
 
 #### Internships
@@ -62,7 +62,8 @@ I recommend keeping the following sections for tech/quant roles(in order):
     - Certifications / Online courses
 
 - Make sure you mention things in the correct section. Eg. Git is not a language but a tool.
-- Make sure commas are placed properly A, B, C, D ...
+- Make sure commas have proper spacing A, B, C, D ...
+- Capitalize things properly eg NumPy, TensorFlow, GitHub etc.
 
 ![Technical Skills](./images/technical-skills.png)
 
@@ -79,7 +80,7 @@ I recommend keeping the following sections for tech/quant roles(in order):
 - Align things properly
 - Highlight the keywords
 - Be ready to speak about / answer questions anything you mention in your CV
-- Make CVs specific to the role. You can save mutliple CVs and choose the right one according to the role while applying
+- Make CVs specific to the role. You can save mutliple CVs and choose the right one according to the role you apply to
 - Keep project titles short
 - Don't forget to fetch and add points on the second page
 - Don't repeat the same words a lot
