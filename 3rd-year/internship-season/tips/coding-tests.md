@@ -21,14 +21,14 @@ In my opinion,
 You don't need to have a high CP rating to crack these tests(a high rating can help indirectly).
 
 CP contests are often more difficult and mathematical and use many concepts which intern tests never target.
-*So focus on the things that intern tests focus on instead of blindly giving contests/practicing on CP platforms*
+*So focus on the things that intern tests focus on instead of blindly giving contests/practicing on CP platforms, CP preparation is a long term thing, intern prep should be a short term focused thing*
 
 CP contests are a good way for timed practice and seeing your overall progress compared to others and CP questions are a good way to practice slightly difficult problems.
 
 Most companies don't care about your CP rating unless you are above Candidate Master or have done exceptionally well in ICPC.
 You can have a high CP rating and not do well on their tests (you don't get shortlisted.)
 
-PS: But with increasing competition, the best companies have shifted to asking CP type questions 
+PS: But with increasing competition, the best companies have shifted to asking CP type questions.
  
 ### DSA Resources
 
