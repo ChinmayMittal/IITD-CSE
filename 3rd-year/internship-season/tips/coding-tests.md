@@ -28,6 +28,8 @@ CP contests are a good way for timed practice and seeing your overall progress c
 Most companies don't care about your CP rating unless you are above Candidate Master or have done exceptionally well in ICPC.
 You can have a high CP rating and not do well on their tests (you don't get shortlisted.)
 
+PS: But with increasing competition, the best companies have shifted to asking CP type questions 
+ 
 ### DSA Resources
 
 - [InterviewBit](https://www.interviewbit.com/)
