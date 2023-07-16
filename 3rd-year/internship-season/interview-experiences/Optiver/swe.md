@@ -1,27 +1,33 @@
+**Calculation Games**
 The first few rounds were common for both the trading and the software engineering roles. They were nothing very difficult but involved quick calculations.
 
-The first few rounds included simple puzzles, 80 in 8, and other such games which tested quick calculations, memorizing ability, basic logical reasoning among other things. They are relatively easy to crack without any practice.
+The first few rounds included simple puzzles, 80 in 8, and other such games which tested quick calculations, memorizing ability, basic logical reasoning among other things. They are relatively easy to crack without any practice. But practice can you help increase your score, get better at managing time etc.
+
+[80 in 8 practice](https://rfqjobs.com/practice/math/optiver-test/)
 
 The next few rounds were different for both roles.
 
-*1st Software Specific Round*
+**1st Software Specific Round**
 - Coding test in C++. 
 - 3 questions
 - The questions were based on trading problems. 
 - They were not that difficult and did not require any trading knowledge in particular. 
 - Some CP/DSA-specific knowledge was required.
 - They were a little lengthy, so time management was important
+- The question involved understanding OOPs in C++
 
 I did not solve all three questions but was still selected not sure what the selection criterion was for interviews, but in my opinion, it was relatively lenient.
 
-*HR Interview*
+The final selection for the interview was based on all rounds before
+
+**HR Interview**
 
 The first interview was one with the HR. Unlike other companies, Optiver focuses a little more on your personality apart from technical skills. It is important to be confident and clear while speaking.
 
 - We discussed very general things. Nothing to be prepared for as such.
 - I remember talking about things like why I want to join Optiver. Life in Amsterdam. Work culture in Optiver and the projects in my CV, and my interests in general.
 
-*System Design Interview*
+**System Design Interview**
 
 This was a bit open-ended and different from most interviews. So be prepared.
 
@@ -44,10 +50,22 @@ Eg.
 .....
 This way, keep improving coming to a complete solution.
 
-*Trading Software Interview*
+**Trading Software Interview**
 
 It was again a relatively simple coding question involving writing basic pseudocode for a trading problem.
 
 It was not that difficult and was to understand how we think, why we make certain decisions, and how well we communicate our ideas.
 
 Again be confident, and ask for clarifications. Think loudly and explain your decisions.
+
+**Prep Tips**
+
+- Get familiar with 80 in 8 and practice a few times
+- Brush up C++ (OOPs in particular)
+- Get familiar with Market Making
+- Get familiar with trading in general, understand how exchanges work, how order books work, what arbitrage is etc.
+- Optiver doesn't care that much about CGPA and JEE rank
+- Be prepared for system design related questions
+- Be confident and clear during the interviews, prepare before-hand
+- Explain your decision to the interviewer (think out loud)
+- Be prepared to talk about your CV and answer general questions in the interview round
