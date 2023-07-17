@@ -69,3 +69,11 @@ Again be confident, and ask for clarifications. Think loudly and explain your de
 - Be confident and clear during the interviews, prepare before-hand
 - Explain your decision to the interviewer (think out loud)
 - Be prepared to talk about your CV and answer general questions in the interview round
+
+**Final Selection Stats**
+
+- 5 offers in software (1 EE, 3 CS1, 1 CS5)
+- 3 PPOs
+- Shortlisting for interviews was based on a cumulative score based on all tests before
+- Communication skills and ability to explain stuff was really important for the interview
+- CGPA not that important
