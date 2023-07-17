@@ -38,3 +38,9 @@
 
 Overall, the Uber interview process encompassed three rounds, including a written test, programming round, high-level design round, and HR round. 
 It provided a valuable opportunity to showcase technical skills, problem-solving abilities, effective communication, and cultural alignment.
+
+### Final Selection Stats
+
+- 3 offers (1 ME1, 1MT1, 1EE1)
+- Selection was mostly about being good at CP
+- CGPA cut off 6.5
