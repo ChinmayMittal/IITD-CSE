@@ -76,4 +76,4 @@ Again be confident, and ask for clarifications. Think loudly and explain your de
 - 3 PPOs
 - Shortlisting for interviews was based on a cumulative score based on all tests before
 - Communication skills and ability to explain stuff was really important for the interview
-- CGPA not that important
+- CGPA not that important (cutoff 7.5)
