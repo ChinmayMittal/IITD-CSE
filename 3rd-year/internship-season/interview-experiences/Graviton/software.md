@@ -9,7 +9,7 @@ The interview only had one round. The first part had three DSA problems (greedy,
 
 By Mansas Jain
 
-Single interview that traversed question of bellman ford, binary search on answer, dp and combinatorics.
+Single interview round after the test that traversed question of bellman ford, binary search on answer, dp and combinatorics.
 Some C++ OOPS was in there as well.
 
 ### Prep Tips
@@ -21,3 +21,8 @@ Practice a lot on Codeforces and InterviewBit.
 
 By Atif Anwer
 Select one area of interest and be good at it. I had decided that software was the one, and I invested myself to get good at competitive programming. Make sure to polish your CS fundamentals and knowledge in C++ and Python (OOPS & compile time optimizations).
+
+### Final Selection Stats
+
+- 6 offers in software (2 EE and 3 CS1, 1 CS5)
+- Mostly selection was based on being good in CP (interview and test)
