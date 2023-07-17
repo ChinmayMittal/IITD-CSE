@@ -17,3 +17,9 @@ There were basically 3 round
     - Then I was asked "How would you compute $2^n$ (n can be -ve) ?" (Hint : use bit manipulation)
     - And also about the questions in the coding round. He asked me about my approach in some questions.
     - In the end he asked me about my interest in cricket which was long gone since 2015.
+
+**Final Selection Stats**
+- ~ 16 offers
+- offers given to students from CS1, CS5, MT, EE1, EE3
+- Selection was based on solving all questions in the test (simple test)
+- CGPA cutoff around 7

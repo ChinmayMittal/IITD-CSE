@@ -22,3 +22,8 @@ Contributed Anonymously
 - Reources/tips
   - In my opinion target multiple companies and don't get obsessed on getting a particular role in a particular company
   - Don't get disheartened, as there might be some points of time where you would feel that shortlisting or selection by some company wasn't fair.
+
+Final Selection Stats
+- 15 offers for quant(6 CS1, 4 MT1, 5 CS5)
+- CGPA cutoff 8.5 for shortlisting
+- Final offer made to people with 9+CGPA and decent scholastics and interview
