@@ -41,6 +41,6 @@ It provided a valuable opportunity to showcase technical skills, problem-solving
 
 ### Final Selection Stats
 
-- 3 offers (1 ME1, 1MT1, 1EE1)
+- 3 internship offers (1 ME1, 1MT1, 1EE1)
 - Selection was mostly about being good at CP
 - CGPA cut off 6.5

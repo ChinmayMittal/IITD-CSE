@@ -72,7 +72,7 @@ Again be confident, and ask for clarifications. Think loudly and explain your de
 
 **Final Selection Stats**
 
-- 5 offers in software (1 EE, 3 CS1, 1 CS5)
+- 5 internship offers in software (1 EE, 3 CS1, 1 CS5)
 - 3 PPOs
 - Shortlisting for interviews was based on a cumulative score based on all tests before
 - Communication skills and ability to explain stuff was really important for the interview

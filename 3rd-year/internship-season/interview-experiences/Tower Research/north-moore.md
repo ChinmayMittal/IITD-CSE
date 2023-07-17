@@ -45,3 +45,9 @@ I remember being asked questions about:
     - He asked me something along the lines of how to sort an extremely large array with limited RAM
 
 There were many more questions of this kind that I don't remember
+
+### Final selection stats
+
+- 2 internship offers (2 CS1)
+- selection was mostly based on CGPA / JEE Rank / Interviews and Test
+- Pretty high CGPA cutoff
