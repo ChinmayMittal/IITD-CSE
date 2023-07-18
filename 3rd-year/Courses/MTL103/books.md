@@ -1,0 +1,4 @@
+- [Non Linear Programming, Bazaraa](https://drive.google.com/file/d/1oudYPdMiV8pNv-gFa_vzZ2QxuhjvUUWL/view?usp=sharing)
+- [Introduction to Linear Optimization, Dimitris Bertsimas](https://drive.google.com/file/d/1PwggYzJu8oER3Ume7nBaBmHn5UH4C89_/view?usp=sharing)
+- [Convex Optimization, Stephen Boyd](https://drive.google.com/file/d/1OZ95Rw9ASIzUhrQgfmqJxbZN44cHWAf6/view?usp=sharing)
+- [Algorithmic Game Theory](https://drive.google.com/file/d/1fac47bWkdLsooz8bmUiVt8NpOxUCsYUC/view?usp=sharing)
