@@ -8,9 +8,9 @@ Round 1 (Technical Round)- On same topics as test ,just live problem solving, ab
 
 ### Final selection stats
 - 35-40 people shortlisted for interviews across all roles
-- Total 16 offers by Texas Instruments
+- Total 14 offers by Texas Instruments
     * 10 for the digital electronics (all in EE)
     * 0 for the analog role
-    * 6 for the embedded role (2MT, 4EE)
+    * 4 for the embedded role (2MT, 2EE)
 - Selection was mostly based on performance in interview but a good CGPA helps
 - No CGPA cutoff as such
