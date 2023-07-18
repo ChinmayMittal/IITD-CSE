@@ -13,3 +13,8 @@ The Interview consisted of 3 rounds. In the first round, they asked questions on
 
 1) A practical guide to quantitative finance by Xingfeng
 2) 50 challenging problems in Probability.
+
+### Final selection stats
+
+- 3 internship offers (2 EE, 1 MT1)
+- Major filtering happened in the online test round. I think the Maths and probability section was the main selection criteria
