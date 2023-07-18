@@ -1,0 +1,6 @@
+- [Learning from Data, Yaser S. Abu-Mostafa](https://drive.google.com/file/d/1SRP9ZHrRlQDPzjCAci1TH8vy1sOT1oWF/view?usp=sharing)
+- [Pattern Recoginition and Machine Learning, Bishop](https://drive.google.com/file/d/1sSPwvWfKMCpGJof4qqXVVTSG2cLXLe8t/view?usp=sharing)
+- [Machine Learning, Tom Mitchell](https://drive.google.com/file/d/1nEqjPYROhKbbL26M9zO_CsKHDOKN7PEu/view?usp=sharing)
+- [Learning from Data, Similarity Based Methods](https://drive.google.com/file/d/1IHCYuXVWPm2RNKLv9S9OKQQVOunqdmgD/view?usp=sharing)
+- [Learning From Data, SVM](https://drive.google.com/file/d/1Z1mZqr7paO6sPEZ5RPFRrdC-rIOnEDuE/view?usp=sharing)
+- [Understanding Machine Learning, Algorithms](https://drive.google.com/file/d/15s0vQ5XyARySkNo4a061QdLLd6HFKRbJ/view?usp=sharing)
