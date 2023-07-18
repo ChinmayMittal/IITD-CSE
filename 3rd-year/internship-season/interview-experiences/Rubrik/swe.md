@@ -7,3 +7,8 @@ Interview Round 1 (2 Questions asked on Paper)
 Interview Round 2 (2 Questions asked on Paper)
 #### Round 4
 HR round where CV was discussed
+
+#### Final selection stats
+- 3 offers, all in CS
+- Selection was mostly based on coding skills, being able to solve DSA questions
+- CGPA cut off 8 (not important for selection)
