@@ -1,0 +1,2 @@
+- [Dexter C. Kozen - Automata and Computability](https://drive.google.com/file/d/1lXqpiPWIlIng2fbOqqZE84J2uynvz4M9/view?usp=sharing)
+- [Introduction To The Theory Of Computation Michael Sipser](https://drive.google.com/file/d/1AtYZkKcXR1AbTF2XEivBRYGHuTdVFtCx/view?usp=sharing)

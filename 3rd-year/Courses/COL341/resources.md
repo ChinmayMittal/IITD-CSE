@@ -7,4 +7,4 @@ Slides
 
 Online Courses
 - [Learning From Data, Caltech ML Course](https://work.caltech.edu/telecourse)
-- [Learning from Data, YouTube](https://youtu.be/mbyG85GZ0PI)
+- [Learning from Data, YouTube](hhttps://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)
