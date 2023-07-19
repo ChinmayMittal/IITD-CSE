@@ -1,0 +1,3 @@
+Contributed by Atif Anwer
+
+The internship was a great experience. We had the chance to work with great minds in a fast paced environment. The people here are very supportive and have established a college-like friendly atmosphere. The tasks given to us were very interesting and they were a part of an ongoing project. Throughout my internship, I was given open ended tasks to research upon, find solutions and implement them with efficient and reliable code. The work life balance was slightly suboptimal, considering the fact that we spent 10-11 hrs in the office on average, because research required significant amount of hard work. 
