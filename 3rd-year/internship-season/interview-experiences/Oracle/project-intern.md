@@ -10,6 +10,6 @@ project interns were assigned to either software related projects or data scienc
 
 ### Final offer stats
 
-- 7 internship offers (MT and CS)
+- 7 internship offers (2MnC and 2CS5, 3CS1)
 - CGPA cutoff 7.5
 - Importance in selection: Coding Test > Interview > CGPA
