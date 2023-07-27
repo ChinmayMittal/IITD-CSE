@@ -1,0 +1,1 @@
+- [L19 (Farewell to Fourier Series)](https://drive.google.com/file/d/1dkxxlYwedRmrFMShvCFtP0g8k3o_-cpH/view?usp=sharing) 
