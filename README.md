@@ -19,6 +19,6 @@ Contribute to Resources for the Internship season
 
 Contribute to course resources
 
-- [Course Reources](https://forms.gle/PzWegtqKnfJnq7bw9)
+- [Course Resources](https://forms.gle/PzWegtqKnfJnq7bw9)
 
 Maintained by ACES-ACM, IIT Delhi
