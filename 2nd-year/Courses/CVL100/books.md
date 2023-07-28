@@ -1,0 +1,1 @@
+- [Handbook of Solid Waste Management, George Tchobanoglous](https://drive.google.com/file/d/1dGpYM_zna4LgsE96FOpcbqtetzbqbxIY/view?usp=sharing)
