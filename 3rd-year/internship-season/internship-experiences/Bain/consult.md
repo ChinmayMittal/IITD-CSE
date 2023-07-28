@@ -1,0 +1,3 @@
+Contributed Anonymously
+
+It was a pretty good experience overall, learnt a lot of hard skills and soft skills and the professional exposure was very enriching. Work environment was amazing in terms of being involved in the work by the team, learning from senior people on the case with massive experience etc. Working hours can be a bit long sometimes, but weekends are strictly protected and early Friday is ensured. 
