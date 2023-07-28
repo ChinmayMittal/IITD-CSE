@@ -1,0 +1,2 @@
+- [Basic Computer Architectur, Smruti Sarangi](https://drive.google.com/file/d/1dAeBgMJpPiKdyyKXkmqmOYbpFt84n5R-/view?usp=sharing)
+- [Computer Organization and Design, Patterson and Hennessy](https://drive.google.com/file/d/1YTaSUbszL4Y7htegGzQ4j-cgIEkykIF5/view?usp=sharing)
