@@ -20,7 +20,7 @@ Market Making
 Trading Game
 
  - 3 Teams of 4 people, there are 6 castles with values 1-6, you have 100 guards, and you have to assign certain number of guards to each castle if you have the highest number of guards in a particular castle than you win that castle and get the corresponing points, decide your allocation
- - What would you do if the value of a castle will be increased randomly decided by a dice roll after your allocation
+ - What would you do if the value of a castle will be doubled randomly decided by a dice roll after your allocation
 
  Remember that trading games often don't have a best strategy and often a good strategy depends on seeing what others are doing and improvising accordingly.
  
