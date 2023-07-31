@@ -36,6 +36,6 @@ Basic Market Making Tips
 - Your theo should adapt seeing what trades others are making and estimating their theo
 - Don't take too long/short positions if you are not confident about your theo
 - Taking positions is suggested only if you are confident about your theo and if that is the case a great way to make money is to provide a narrow spread around the theo
-- Arbitrage is a typical strategy in beginner games so be quick to react to the markets other people make. Arbitrage is in layman's terms buying low and selling high exploting inefficiencies in market by being quick to react 
+- Arbitrage is a typical strategy in beginner games so be quick to react to the markets other people make. Arbitrage is in layman's terms is buying low and selling high exploting inefficiencies in market by being quick to react 
 - Practice with your friends before the final day
 - Be familiar with the terms involved bid/ask/offer/yours/mine/quote/trade/spread etc.
