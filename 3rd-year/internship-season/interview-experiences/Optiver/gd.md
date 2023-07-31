@@ -13,9 +13,9 @@
 PYQs
 
 Market Making
-- Market on totals hours of content on Netflix
+- Market on the totals hours of content available on Netflix
 - Market on the length of the longest river in the world
-- Everybody choose a number between 1 and 7, market on the sum of everybody's choices
+- Everybody choose a number between 1 and 7 without revealing their choices, market on the sum of everybody's choices
 
 Trading Game
 
