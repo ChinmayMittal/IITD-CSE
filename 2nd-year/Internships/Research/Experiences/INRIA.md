@@ -39,6 +39,34 @@ I would advise them to try to maintain their grades and academic performance sin
 
 - [Cover Letter](https://docs.google.com/document/d/1_DrlaQ_mvUFKE5DNm4Yad_7Z-JkLePWU/edit?usp=sharing&ouid=109506771484818266859&rtpof=true&sd=true)
 
+---
+---
+
+Contributed by *Viraj Agashe*
+
+- Research Intern at **Inria, France**
+- Topic **Computational Biology/Bioinformatics**
+
+
+### Experience
+The experience at Inria was extremely enriching - my team was very friendly and welcoming - and I enjoyed having intellectually stimulating discussions with them. I got to work in the ABS team: Algorithms, Biology, Structure. My work was initially mathematical, trying to prove a hypothesis proposed by my advisor which would speed up an algorithm they were implementing. In the latter half, I was responsible for implementing the algorithm using SageMath (Python) and also graphing using Maple. Inria provided me with a holistic idea of what research is all about, and helped me realize that it is what I am passionate about. Since I had no prior experience in bioinformatics, it was a slightly steep learning curve, but the fun was in the challenge. 
+
+### How did you get your intern ?
+A senior who had interned there in the previous year told me about the opportunity. 
+
+### Tips
+- I have seen both ends of the spectrum - people getting clarity about doing research via completing a research intern, and people regretting just doing a research intern 'for the sake of it' and not getting enough time to prepare for their OCS tests and interviews. 
+
+- I would say though, it is worth doing a research intern if you have even the slightest inclination towards research. 
+
+- Doing research under a professor at IIT Delhi is also a good option if you are not sure about your interests. If you are a fence-sitter, it will give you exposure to what research is about, and will also give you enough time for your 3rd year internship preparation.
+
+### CV/Cover Letter
+
+- [CV]()
+- [Cover Letter]()
+
+
 
 
 
