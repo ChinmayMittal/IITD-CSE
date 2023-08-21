@@ -25,3 +25,27 @@ For the interview
 
 - [CV](https://drive.google.com/file/d/1z3XDtM5Knzi9pF5SwpxOm1mwCE-9oKjp/view?usp=sharing)
 - [Cover Letter](https://docs.google.com/document/d/1yw18XTQcFGKrRtQEMxtVylgMx5zCpwOS/edit?usp=sharing&ouid=109506771484818266859&rtpof=true&sd=true)
+
+---
+---
+
+Contributed by *Kashish Goel*
+
+- Intern at **IOL Lab, Zuse Institute Berlin and Technical University Berlin**
+- Topic **Mathematical Optimization**
+- Professor **Zev Woodstock**
+
+### Experience
+I had a great experience. The internship was on-site and hence one could work and enjoy at the same time. In research internship, generally you don't have a lot of work and the work timings in Europe are pretty chill so you can enjoy a lot. 
+Besides the fun, talking about the work, you get to know how profs outside IITD are and you may get a chance to collaborate with foreign students which unfortunately I didn't get. You don't get any "experience" as such for your 3rd yr interns but yeah if you can prepare for your 3rd yr intern in a disciplined manner with your intern then its a great way to spend time!
+
+### How did you get your intern ?
+I used some cover letter I get from my senior to get an idea of how to write mine down. Created a cv on overleaf and used the same for the very few mails I did to get my intern.
+Talked to seniors who did research intern last year and got to know the professors they did the intern with which helped me get in touch with those professors. 
+
+### Tips
+It is often said that one needs to do mass mailing to get a research intern but I don't believe in the same. Research intern is all about looking for a topic you could or want to work in and a professor who has ongoing projects so that he/she can accommodate you in his/her work. Talk to seniors who have been to research internship earlier and if you find their field interesting then definitely try applying to the same professors cause they may be eager to take you in.
+
+### CV/Cover Letter
+
+- [Cover Letter](https://drive.google.com/file/d/1V5h7w1UScUcg2F12nZzZGCDWzRe1ExbC/view?usp=sharing)
