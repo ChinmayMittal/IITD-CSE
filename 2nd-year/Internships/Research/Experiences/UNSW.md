@@ -15,3 +15,24 @@ I mailed the professor around February.
 ### Tips
 
 Start mailing from September onwards. Find professors from csrankings.org
+
+---
+---
+
+Contributed by *Amaiya Singhal*
+
+- Research Intern at **University of Sydney**
+- Topic ****
+- Professor ****
+
+### Experience
+
+### How did you get your intern ?
+
+### Tips
+
+### CV/Cover Letter
+
+- [CV]()
+- [Cover Letter]()
+
