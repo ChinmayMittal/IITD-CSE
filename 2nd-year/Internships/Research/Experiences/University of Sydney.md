@@ -1,6 +1,6 @@
 Contributed by *Amaiya Singhal*
 
-- Research Intern at **UNSW**
+- Research Intern at **University of Sydney**
 - Topic **Cybersecurity (Superoptimization of Grammar Based Fuzzers)**
 - Professor **Rahul Gopinath**
 
