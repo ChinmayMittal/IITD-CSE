@@ -61,11 +61,28 @@ A senior who had interned there in the previous year told me about the opportuni
 
 - Doing research under a professor at IIT Delhi is also a good option if you are not sure about your interests. If you are a fence-sitter, it will give you exposure to what research is about, and will also give you enough time for your 3rd year internship preparation.
 
-### CV/Cover Letter
 
-- [CV]()
-- [Cover Letter]()
+---
+---
+Contributed by *Suren*
 
+- Research Intern at **INRIA, France**
+- Topic **Clustering algorithms**
+- Professor **Frederic Cazals, INRIA, Sophia Antipolis, France**
+
+### Experience
+I had a really good experience in my internship. I worked on clustering algorithms. Initially I had to read quite a few papers to get some knowledge about the previous breakthroughs in the field. My main job was to try and improve the robustness of a novel clustering algorithm. I suggested an approach and then wrote some code to test the modified algorithm. 
+The working hours were quite flexible. I did not mind staying a little longer (sometimes) than I was expected to, as I enjoyed the work. INRIA is a big research institute and has many teams, so I got to know about work going on in other fields of computer science as well. 
+I enjoyed travelling through France and some nearby countries during weekends. The French Riviera is indeed beautiful. The place where we stayed has both hills and the sea nearby, and is an ideal place to go to, if you love nature. 
+My major takeaways from the internship were learning to write clean, organised and readable code, and learning to work with other collaborators, and of course, the diverse albeit shallow knowledge of a lot of different fields of computer science. 
+
+### How did you get your intern ?
+One of my friends (Tejas Anand) told me about this internship opportunity. He himself got to know about it from a senior (Viraj Agashe) who did an internship under the same professor last year. 
+
+### Tips
+Contrary to popular opinion, I feel that sending emails to professors in large numbers seeking a research internship is not the best way to get one. Instead, select a few professors whose work you find interesting (you probably won't understand what they do exactly, but if anything even remotely piques your curiosity, it is probably worth a try). Do not send emails to professors without atleast skimming through their home page. In the email, try to convey why/how you came across their webpage, why did you like it, and most importantly, tell them about yourself and why you feel that you can add value to their work, not necessarily in that order. If you do not manage to get hold of an internship soon, then you can try changing your approach.
+
+Another important point is to keep in mind the internship processes for the next year which start right after the internships end. It is very easy to get lost in travelling and enjoying a 'vacation', and before you realise it, your preparation for the internship processes is already messed up. If you feel that you can strike a balance between the internship work, travelling, and preparing for the internship processes, it is perfectly fine to go for a research internship. However, if you feel that you are not disciplined enough then, according to me, it is not the best idea to go for a research internship after your second year. 
 
 
 
