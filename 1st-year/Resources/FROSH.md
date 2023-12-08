@@ -121,7 +121,7 @@ P.S. - Make a github pro account using IITD id!
 - Extremely useful skill
 - Saves a lot of time !!!
 - [Keybr](https://www.keybr.com/), [Monkeytype](https://monkeytype.com/) and other similar sites to learn and practice
-- Compete against other on [Typeracer](https://play.typeracer.com/)
+- Compete against others on [Typeracer](https://play.typeracer.com/)
 
 
 
