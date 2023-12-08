@@ -1,0 +1,1 @@
+- [COL774 Resources, Prof. Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching/col774/)
