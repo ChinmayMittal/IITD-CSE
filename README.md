@@ -24,6 +24,7 @@ This repo is aimed to help all Computer Science students at IIT Delhi. Feel free
 - [COL341: Machine Learning](./3rd-year/Courses/COL341/)
 - [COL351: Analysis and Design of Algorithms](./3rd-year/Courses/COL351/)
 - [COL352: Automata Theory and Theory of Computation](./3rd-year/Courses/COL352/)
+- [COL362: Intro to Database Management](./3rd-year/Courses/COL362/)
 - [COL380: Parallel and Distributed Programming](./3rd-year/Courses/COL380/)
 - [COL703: Logic for CS](./4th-year/Courses/COL703/)
 - [COL728: Compiler Design](./4th-year/Courses/COL728/)
