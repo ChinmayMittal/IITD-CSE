@@ -56,4 +56,35 @@ Contribute to course resources
 
 - [Course Resources](https://forms.gle/PzWegtqKnfJnq7bw9)
 
+
+### Contributors
 Maintained by ACES-ACM, IIT Delhi
+
+#### 2020 Batch 
+- Viraj Agashe
+- Kanishk Goel
+- Tanish Gupta
+- Rajat Bharadwaj
+- Mayank Mangla
+- Chinmay Mittal
+- Divyanshu Agarwal
+
+#### 2021 Batch 
+- Kushagra Gupta
+- Kavya Chopra
+- Sanya Mittal
+- Sakshi Gupta
+- Utkarsh Singh
+- Kashish Goel
+- Vaibhav Bajaj
+- Aaveg Jain
+- Amaiya Singhal
+- Aryan Sharma
+
+
+
+#### 2022 Batch
+- Akshat Jha
+
+Please create a PR if your name was missed out from the list of contributors
+
