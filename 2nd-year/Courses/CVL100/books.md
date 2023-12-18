@@ -1,1 +1,2 @@
 - [Handbook of Solid Waste Management, George Tchobanoglous](https://drive.google.com/file/d/1dGpYM_zna4LgsE96FOpcbqtetzbqbxIY/view?usp=sharing)
+- [Introduction to Environmental Engineering](https://joycelau99.files.wordpress.com/2020/10/introduction-to-environmental-engineering.pdf)

@@ -1,0 +1,15 @@
+Q1.a
+(1)Each node in a doubly linked circular list has a next pointer that points to the next node in the list, and a 	prev pointer that points to the previous node in the list.
+(2)The next and previous pointer are never null for a node in a non-empty circular linked list.
+(3)Next pointer of the last node points to the first node and the previous pointer of the first node points to the last node.
+(4)The list is always finite.  
+
+
+Q1.b
+True if the input is already sorted and insertion sort is applied. False, otherwise. The best-case complexity is O(n log n) -- the sequence of comparisons can be represented as a decision tree where each internal node represents a comparison between two elements and each leaf  represents a possible final sorted order of the input elements. Counting all the leaves will give us n! and the height of the decision tree corresponds to the maximum number of comparisons required to sort the input. Thus, log(n!) is the answer which by Stirling's approximation gives us n log n. 
+
+Q1.c
+Knowing storage size in advance allows for efficient allocation of memory, fixed-output size allows us to determine the range of possible hash values and thus assists us in designing a hash function that uniformly distributes the output in the range.
+
+Q1.d
+The worst case complexity for search in Hashing with chaining is O(n), where n is the number of elements in the hash table. This happens when all the elements are mapped to the same hash value and form a long linked list. To search for an element, we have to traverse the entire list.  
