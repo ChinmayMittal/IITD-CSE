@@ -87,6 +87,7 @@ Maintained by ACES-ACM, IIT Delhi
 
 #### 2022 Batch
 - Akshat Jha
+- Vishaka Agarwal
 
 Please create a PR if your name was missed out from the list of contributors
 
