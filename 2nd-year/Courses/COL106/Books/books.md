@@ -10,7 +10,7 @@
 - [Data Strucutres and Algorithm Analysis in C++ by Mark Allen Weiss](https://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/DataStructures.pdf)
 
 ### C
-- [The C Programming Language by KerniGhan and Ritchie](https://kremlin.cc/k&r.pdf)
+- [The C Programming Language by Kernighan and Ritchie](https://kremlin.cc/k&r.pdf)
 
 ### Algorithms
 
