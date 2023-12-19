@@ -9,6 +9,7 @@ This repo is aimed to help all Computer Science students at IIT Delhi. Feel free
     * [Tips and Resources](./3rd-year/internship-season/tips-and-resources/)
 
 - [Reseach Interns](./2nd-year/Internships/Research/)
+- [Placements](./4th-year/Placements/)
 
 #### Computer Science & Engineering Course Resources
 
