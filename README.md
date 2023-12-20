@@ -29,6 +29,7 @@ This repo is aimed to help all Computer Science students at IIT Delhi. Feel free
 - [COL380: Parallel and Distributed Programming](./3rd-year/Courses/COL380/)
 - [COL703: Logic for CS](./4th-year/Courses/COL703/)
 - [COL728: Compiler Design](./4th-year/Courses/COL728/)
+- [COL731: Advanced Compiler Techniques](./4th-year/Courses/COL731/)
 - [COL733: Cloud Computing Fundamentals](./4th-year/Courses/COL733/)
 - [COL751: Algorithmic Graph Theory](./4th-year/Courses/COL751/)
 - [COL759: Cryptography & Computer Security](./4th-year/Courses/COL759/)
