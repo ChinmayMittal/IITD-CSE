@@ -11,3 +11,5 @@
 - [Lecture Slides, Prof. Anshul Kumar, Spring'22](https://drive.google.com/file/d/1d_CoPYV2_DibfYirx8qDD-k1dO_09za7/view?usp=drive_link)
 
 ### Videos
+
+- [NPTEL Lectures Prof. Anshul Kumar](https://youtube.com/playlist?list=PL59E5B57A04EAE09C&si=Q29BsbMfC4VM__0k)
