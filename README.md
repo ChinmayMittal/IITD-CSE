@@ -88,6 +88,7 @@ Maintained by ACES-ACM, IIT Delhi
 - Aaveg Jain
 - Amaiya Singhal
 - Aryan Sharma
+- Madhav Gulati
 
 
 
