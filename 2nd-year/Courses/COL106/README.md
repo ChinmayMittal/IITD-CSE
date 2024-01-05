@@ -1,6 +1,6 @@
-# COL_106 2023-24 Semester 1
+# COL_106
 
-## Table of Contents
+## Topics Covered
 
 1. [Time Complexity](#time-complexity)
 2. [Pointers and References](#pointers-and-references)
