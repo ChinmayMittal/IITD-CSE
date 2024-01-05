@@ -37,13 +37,13 @@
 
 ### 7.	Uber STAR Internship Program
 - UberShe++ is an event that the Uber India University Talent Acquisition Team hosts as part of the International Women’s month celebrations, aimed at providing young aspiring Women In Technology an opportunity to virtually meet and network with some of the Uber’s prominent leaders in the field
-- Eligibility: Female BTech students graduating in 2026
+- Eligibility: Second year female student in a Btech program, third year female student in dual degreee program
 - Recruitment Process: Registration, Online Coding Test, (70 students selected for UBER SHE++) and 30 students for UBER STAR
 - Timeline: January 
 
 ### 8.	JPMC Quant Mentorship Program
 - The J.P. Morgan Quant Mentorship Program is a six-month program that helps students develop the skills needed for a career in Quantitative Finance.
-- Eligibility: BTech students graduating in 2026
+- Eligibility: Second year female student in a Btech program, third year female student in dual degreee program
 - Recruitment Process: Registration, Online Test (Logical Reasoning, Probability and Statistics, Calculus, Coding Questions), Case Study
 - Timeline: January
 
@@ -53,7 +53,7 @@
 - Timeline: February
 
 ### 10.	American Express Makeathon
-- The 2023 American Express Makeathon was for women in tech and offered cash prizes and internships.
+- The American Express Makeathon is for women in tech and offers cash prizes and internships.
 - Eligibility: Women Students pursuing any technical degree from a recognized engineering college in India currently in second or third year.
 - Recruitment Process: Registration followed by Ideation and presentation of proposed solution.
 - Timeline: April-May
