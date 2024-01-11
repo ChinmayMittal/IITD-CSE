@@ -17,3 +17,4 @@
 ### Additional Resources
 
 - [COL202 Drive by Madhav Gulati](https://drive.google.com/drive/folders/1H0FcZnOZ8usrWoBAtI1SLPSR8SnsYHix)
+- [Fall'23 Resources by Abhinav Rajesh Shripad](https://github.com/33Arsenic75/COL_202_Resources_2023-24_Semester_1)
