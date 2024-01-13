@@ -96,6 +96,7 @@ Maintained by ACES-ACM, IIT Delhi
 - Akshat Jha
 - Vishaka Agarwal
 - Abhinav Rajesh Shripad
+- Rajashree Das
 
 Please create a PR if your name was missed out from the list of contributors
 
