@@ -11,7 +11,10 @@ This repo is aimed to help all Computer Science students at IIT Delhi. Feel free
 - [Reseach Interns](./2nd-year/Internships/Research/)
 - [Placements](./4th-year/Placements/)
 
-#### Computer Science & Engineering Course Resources
+#### Course Resources
+
+<details>
+<summary>Computer Science & Engineering Courses</summary>
 
 - [COL100: Introduction to Programming](./1st-year/Courses/COL100/)
 - [COL106: Data Structures & Algorithms](./2nd-year/Courses/COL106/)
@@ -36,12 +39,19 @@ This repo is aimed to help all Computer Science students at IIT Delhi. Feel free
 - [COL761: Data Mining](./4th-year/Courses/COL761/)
 - [COL774: Graduate Machine Learning](./4th-year/Courses/COL774/)
 
-#### Other Course Resources
+</details>
+
+<details>
+
+<summary> Other Course Resources </summary>
+
 - [CVL100: Environmental Science](./2nd-year/Courses/CVL100/)
 - [ELL205: Signals & Systems](./2nd-year/Courses/ELL205/)
 - [MTL106: Probability and Stochastic Processes](./2nd-year/Courses/MTL106/)
 - [PYL102: Principles of Electronic Materials](./2nd-year/Courses/PYL102/)
 - [MTL103: Optimization Methods & Applications](./3rd-year/Courses/MTL103/)
+</details>
+
 --- 
 
 Contribute to Resources for the Placement/Internship season
@@ -65,9 +75,11 @@ Contribute to course resources
 
 
 ### Contributors
-Maintained by ACES-ACM, IIT Delhi
 
-#### 2020 Batch 
+
+<details>
+<summary> 2020 Batch </summary>
+
 - Viraj Agashe
 - Kanishk Goel
 - Tanish Gupta
@@ -76,8 +88,12 @@ Maintained by ACES-ACM, IIT Delhi
 - Chinmay Mittal
 - Divyanshu Agarwal
 - Utsav Jaiswal
+</details>
 
-#### 2021 Batch 
+
+<details>
+<summary> 2021 Batch </summary>
+
 - Kushagra Gupta
 - Kavya Chopra
 - Sanya Mittal
@@ -90,13 +106,20 @@ Maintained by ACES-ACM, IIT Delhi
 - Aryan Sharma
 - Madhav Gulati
 
+</details>
 
 
-#### 2022 Batch
+<details>
+<summary> 2022 Batch </summary>
+
 - Akshat Jha
 - Vishaka Agarwal
 - Abhinav Rajesh Shripad
 - Rajashree Das
 
+</details>
+
 Please create a PR if your name was missed out from the list of contributors
+
+Maintained by ACES-ACM, IIT Delhi
 
