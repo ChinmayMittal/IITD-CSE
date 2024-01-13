@@ -1,7 +1,12 @@
 # IITD-CSE
-The go to place for your departmental needs. We aim to make this a complete resource for students from all years.
+This repo is aimed to help all Computer Science students at IIT Delhi. We aim to make this a complete resource and a one stop solution to all needs for students across all years in the department. 
 
-This repo is aimed to help all Computer Science students at IIT Delhi. Feel free to contribute !
+
+Feel free to contribute and share !
+
+### Resouces
+
+#### Internsips & Placement Season Resources
 
 - [Internship Season](./3rd-year/internship-season/) (3rd Year)
     * [Interview Experiences, Tests, Cutoffs, Offers etc.](./3rd-year/internship-season/interview-experiences/)
@@ -52,27 +57,22 @@ This repo is aimed to help all Computer Science students at IIT Delhi. Feel free
 - [MTL103: Optimization Methods & Applications](./3rd-year/Courses/MTL103/)
 </details>
 
+#### Other Resources
+
+- [STEM Opportunities for Women](./Misc./Opportunites/Women-STEM/README.md)
+- [AI Productivity Tools](./Misc./Tools/AI-Tools/README.md)
+
 --- 
+### Contribute
 
-Contribute to Resources for the Placement/Internship season
-
-### 4th Year
-
-- [Placement Experience](https://forms.gle/9c2kAhx4sZgd14Zh6)
-
-### 3rd Year
-- [Interview Experience](https://forms.gle/TS4t511TUJmx2EBt8)
+- [Placement Season Experience](https://forms.gle/9c2kAhx4sZgd14Zh6)
+- [Internship Season Interview Experience](https://forms.gle/TS4t511TUJmx2EBt8)
 - [Internship Experience](https://forms.gle/94Qq5THujLkEJg5YA)
-
-### 2nd Year
-- [Interview Experiences / Resources](https://forms.gle/JMqymCoFuJTFTbgR7)
+- [2nd-Year Internship Resources](https://forms.gle/JMqymCoFuJTFTbgR7)
+- [Course Resources](https://forms.gle/PzWegtqKnfJnq7bw9)
+- [Other Resources](https://forms.gle/5thH5gPswLKLogcQA)
 
 ---
-
-Contribute to course resources
-
-- [Course Resources](https://forms.gle/PzWegtqKnfJnq7bw9)
-
 
 ### Contributors
 
@@ -120,6 +120,8 @@ Contribute to course resources
 </details>
 
 Please create a PR if your name was missed out from the list of contributors
+
+---
 
 Maintained by ACES-ACM, IIT Delhi
 
