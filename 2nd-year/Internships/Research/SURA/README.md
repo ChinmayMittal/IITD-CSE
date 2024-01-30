@@ -98,7 +98,7 @@ The process typically starts with a mail from the IRD inviting proposals. The ti
 - [Development of an automated Video and Image-Based Evaluation for drilling in Microscopic Neurosurgery, Prof. Chetan Arora, Amish Kansal, Yash Goel](https://docs.google.com/document/d/1YASIKNKHQMn1HdOsvHI3epjzu0-x4a6M9G0RNcPz6iQ/edit?usp=sharing)
 - [Development of an Assistive Technology for Homing to Building Entrances for Persons Visual Impairment, Prof. Rohan Paul, Bhumi GadHhavi, Riju Bindua](https://drive.google.com/file/d/1JTRJVfTsvmpSwmlSoS6JgYDp56YoTqMz/view?usp=sharing)
 - [Coarsening Graphs for Scaling GNN for Chemical Molecule Analysis, Prof. Sandeep Kumar, Kumar Arjun, Rishi Chandra](https://drive.google.com/file/d/1BCKZXKYBXyLWeDAWQT0086rZzZA4O9N2/view?usp=sharing)
-- [Deep Learning for Computer Vision, Prof. Chetan Arora, Chinmay Mittal, Tanish Tuteja](https://drive.google.com/file/d/1PJiz_TxacWxxDmwthr9wwi_iDfHYwXyY/view?usp=sharing)
+- [Deep Learning Model for Hindi Scene Text Detection & Recognition](https://drive.google.com/file/d/1C1UHF91KtysBzjFr-k8Gl_bLrXYLts2r/view?usp=sharing)
 
 
 ### FAQs
