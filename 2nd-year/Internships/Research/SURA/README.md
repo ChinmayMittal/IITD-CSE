@@ -133,8 +133,11 @@ The process typically starts with a mail from the IRD inviting proposals. The ti
 ---
 
 **Q**: *Do I need to complete the project if I start it?*
+**Q**: *Alternatively can I backout out?*
 
 **A**: NO, you can choose not to submit the final project progress report (after summer break), in which case you will not be awarded SURA/funding/stipend. It is advisable to take your project to completion. Also because this is not a graded course this doesn't affect your CGPA but it can damage your relation with your advisor and your team-mate.
+
+You can tell your supervisor that you wish to discontinue SURA (for whatever reasons) and then go on to not submit the final progress report. Everything else written above applies.
 
 ---
 
