@@ -89,6 +89,7 @@ The process typically starts with a mail from the IRD inviting proposals. The ti
 - Clear expectations from you with your advisor before stating your project. for eg. let him know in advance (after initial project discussions) that you might have to take some time off for your OCS internship season
 - Work on a project in a field of your interest
 - Try to talk with 2-3 profs and figure out what project and which professor you like the most
+- All most every year all project proposals submitted are accepted. The biggest reason for rejection is multiple groups applying for SURA under the same prof, in which case the committee has to choose at most one of them
 
 
 ### Sample Proposals
@@ -103,28 +104,48 @@ The process typically starts with a mail from the IRD inviting proposals. The ti
 ### FAQs
 
 **Q**: *Do I need to have a problem statement ready before approaching a professor ?*
+
 **A**: NO, in most cases the professor gives you a project/problem statement
 
 
 **Q**: *Do I need to work in a group ?*
+
 **A**: NO, but it is recommended
 
+---
+
 **Q**: *Do I need to have background knowledge/experience for the project ?*
+
 **A**: NO, but it is recommended and you will have to do background reading before starting the project anyways
 
+---
+
 **Q**: *Can I work with a professor not from my department ?*
+
 **A**: YES, ideally you should work with a professor working in an area of your interest (irrespective of department), if you have a choice it is advisable to work with a professor in your department
 
+---
+
 **Q**: *What happens if multiple groups submit a proposal and have the same supervisor?*
+
 **A**: At most one of them would get SURA, the other group will be rejected. This is decided by the committee after evaluating the proposal and presentation
 
+---
+
 **Q**: *Do I need to complete the project if I start it?*
+
 **A**: NO, you can choose not to submit the final project progress report (after summer break), in which case you will not be awarded SURA/funding/stipend. It is advisable to take your project to completion. Also because this is not a graded course this doesn't affect your CGPA but it can damage your relation with your advisor and your team-mate.
 
+---
+
 **Q**: *When is SURA awarded ?*
+
 **A**: Proposals are accepted before the summer break, SURA is awarded after the summer break after the projects are completed successfully (as judged by the committee)
 
+---
+
 **Q**: *What does a professor expect while approaching him for a project ?*
+
 **A**: 
 This is subjective and depends on the project and prof but typically the following help:
  - Interest in area of research
@@ -137,7 +158,10 @@ This is subjective and depends on the project and prof but typically the followi
 
 In any case you should not self-reject yourself and try to contact whichever your prof. you want depending on your interests. Try to write the email keeping the above points in mind and showcasing your best. Keep the email short and to the point.
 
+---
+
 **Q**: *SURA vs Foreign Research Intern* ?
+
 **A**: 
 This is subjective but you can decide for yourself keeping the following things in mind
 - Do you want to travel abroad ? Most people enjoy the offline abroad experience more than working on campus
@@ -146,15 +170,21 @@ This is subjective but you can decide for yourself keeping the following things 
 - A good offline research intern is probably a better CV point, but what is more important is what you get out of the project and what you learn from it. In the long run it is not about filling your CV with glitter but getting better and understanding your interests through exploration
 - Technical Companies during the OCS internship season don't seem to care much about your CV points and care more about your performance in their tests, CGPA etc (subjective general opinion depends on case to case basis)
 - Staying on campus means you don't miss out any OCS activities/ intern prep for 3rd year which might not be the case if you go for a foreign intern
+---
 
 **Q**: Can we get a SURA if we don't meet the CGPA requirements 
+
 **A**: Typically No, but you can try to reach out to the IRD for relaxation of the eligibility criterion
 
+---
 **Q** Can any prof. recommend our name for SURA ?
+
 **A**: Professors don't recommend names, you have to approach them build a proposal and submit it and present it infront of the committee. Every SURA project needs atleast one advisor. You can work wtih any prof as per your interests irrespective of the department
 
+---
 
 **Q**: How long is the project, what is the workload ?
+
 **A**: 
 - Formally SURA is expected to be a fulltime project during the summer break i.e. about 5-6 hours per day on average for 2 months.
 - But this is not a requirement and typically student's don't work fulltime on the project during the summer break.
