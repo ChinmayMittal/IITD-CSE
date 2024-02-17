@@ -1,2 +1,2 @@
 - [COL774 Resources, Prof. Parag Singla](https://www.cse.iitd.ac.in/~parags/teaching/2022/col774/)
-- [COL774 by Vaibhav Seth] (https://github.com/iamsecretlyflash/COL774)
+- [COL774 by Vaibhav Seth](https://github.com/iamsecretlyflash/COL774)
