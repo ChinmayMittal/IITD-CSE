@@ -92,8 +92,9 @@ The process typically starts with a mail from the IRD inviting proposals. The ti
 - All most every year all project proposals submitted are accepted. The biggest reason for rejection is multiple groups applying for SURA under the same prof, in which case the committee has to choose at most one of them
 
 
-### Sample Proposals
+### Sample Proposals and Template
 
+- [LaTex Template, by Aniruddha Deb](https://drive.google.com/drive/folders/1wd4ygPQ7fPSmdGuod8Dxei6d2l6gX0RD?usp=sharing)
 
 - [Development of an automated Video and Image-Based Evaluation for drilling in Microscopic Neurosurgery, Prof. Chetan Arora, Amish Kansal, Yash Goel](https://docs.google.com/document/d/1YASIKNKHQMn1HdOsvHI3epjzu0-x4a6M9G0RNcPz6iQ/edit?usp=sharing)
 - [Development of an Assistive Technology for Homing to Building Entrances for Persons Visual Impairment, Prof. Rohan Paul, Bhumi GadHhavi, Riju Bindua](https://drive.google.com/file/d/1JTRJVfTsvmpSwmlSoS6JgYDp56YoTqMz/view?usp=sharing)
