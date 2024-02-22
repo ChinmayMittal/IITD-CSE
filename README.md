@@ -105,6 +105,7 @@ Feel free to contribute and share !
 - Amaiya Singhal
 - Aryan Sharma
 - Madhav Gulati
+- Vaibhav Seth
 
 </details>
 
