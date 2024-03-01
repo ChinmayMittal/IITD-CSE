@@ -61,6 +61,8 @@ Feel free to contribute and share !
 
 - [STEM Opportunities for Women](./Misc./Opportunites/Women-STEM/README.md)
 - [AI Productivity Tools](./Misc./Tools/AI-Tools/README.md)
+- [AI Research Ke Fundae](./Misc./Research/AI-Research-Ke-Fundae/README.md)
+- [SURA Tips, Proposal Examples and Templates](./2nd-year/Internships/Research/SURA/README.md)
 
 --- 
 ### Contribute
