@@ -2,9 +2,9 @@
 
 # DEV
 
-## Devpost
+## [Devpost](https://devpost.com/)
 
-https://devpost.com/
+
 
 provides a centralized location for students to participate in hackathons, explore new APIs/tech, and win prizes and recognition.
 
